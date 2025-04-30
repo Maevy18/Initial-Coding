@@ -1,4 +1,4 @@
-package com.mycompany.ms2_itc;
+9package com.mycompany.ms2_itc;
 import java.until.Scanner;/**
 **@author DONITA WAHA*/
 public class MS2_ITC{
@@ -82,6 +82,6 @@ Scanner inp = new Scanner(System.in);
             case 100025 -> empName = "Isabella Lopez";
     
             case 100026 -> empName = "Jack Thompson";
-}
+};
 
  
