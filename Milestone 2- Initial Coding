@@ -30,3 +30,37 @@ Scanner inp = new Scanner(System.in);
      
 
         switch ((int) empNum) {
+
+            case 10001 -> empName = "Manuel Garcia III";
+
+            case 10002 -> empName = "Antonio Lim";
+
+            case 10003 -> empName = "Bianca Sofia Aquino";
+
+            case 10004 -> empName = "Isabella Reyes";
+
+            case 10005 -> empName = "Eduard Hernandez";
+            
+            case 10006 -> empName = "Andrea Mae Villanueva";
+
+            case 10007 -> empName = "Brad San Jose";
+
+            case 10008 -> empName = "Alice Romualdez";
+
+            case 10009 -> empName = "Rose Atienza";
+
+            case 100010 -> empName = "Roderick Alvaro";
+            
+            case 100011 -> empName = "Anthony Salcedo";
+
+            case 100012 -> empName = "Josie Lopez";
+
+            case 100013 -> empName = "Martha Farala";
+
+            case 100014 -> empName = "Leila Martinez";
+
+            case 100015 -> empName = "Fredrick Romualdez";
+            
+            case 100016 -> empName = "Christian Mata";
+
+            case 100017 -> empName = "
