@@ -84,4 +84,27 @@ Scanner inp = new Scanner(System.in);
             case 100026 -> empName = "Jack Thompson";
 };
 
+if (weeklyTime <= 40) {
+
+            regPay = hourSalary * weeklyTime;
+
+            overtimeHours = 0;
+
+            overtimePay = 0;
+
+            netPay = regPay;
+
+        } else {
+
+            overtimeHours = weeklyTime - 40;
+
+            regPay = hourSalary * 40;
+
+            overtimePay = (hourSalary * 1.5) * overtimeHours;
+
+            netPay = regPay + overtimePay;
+
+        }
+
+
  
