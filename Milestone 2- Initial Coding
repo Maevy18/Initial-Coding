@@ -7,7 +7,7 @@ Scanner inp = new Scanner(System.in);
 
         long empNum;
 
-        String empName = "Unknown";
+        String[] empName = {"Unknown";
 
         double hourSalary, weeklyTime, overtimeHours;
 
@@ -63,4 +63,25 @@ Scanner inp = new Scanner(System.in);
             
             case 100016 -> empName = "Christian Mata";
 
-            case 100017 -> empName = "
+            case 100017 -> empName = "Alice Johnson";
+
+            case 100018 -> empName = "Bob Smith";
+
+            case 100019 -> empName = "Catherine Lee";
+
+            case 100020 -> empName = "Daniel Kim";
+
+            case 100021 -> empName = "Emily Davis";
+
+            case 100022 -> empName = "Frank Wright";
+
+            case 100023 -> empName = "Grace Chen";
+    
+            case 100024 -> empName = "Henry Patel";
+   
+            case 100025 -> empName = "Isabella Lopez";
+    
+            case 100026 -> empName = "Jack Thompson";
+}
+
+ 
