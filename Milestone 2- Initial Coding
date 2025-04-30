@@ -1,0 +1,5 @@
+package com.mycompany.ms2_itc;
+import java.until.Scanner;/**
+**@author DONITA WAHA*/
+public class MS2_ITC{
+public static void main(String[] args) {
