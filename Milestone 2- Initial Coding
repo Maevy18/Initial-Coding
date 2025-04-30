@@ -3,3 +3,30 @@ import java.until.Scanner;/**
 **@author DONITA WAHA*/
 public class MS2_ITC{
 public static void main(String[] args) {
+Scanner inp = new Scanner(System.in);
+
+        long empNum;
+
+        String empName = "Unknown";
+
+        double hourSalary, weeklyTime, overtimeHours;
+
+        double regPay, overtimePay, netPay;
+
+
+        System.out.print("Enter Employee No: ");
+
+        empNum = inp.nextLong();
+
+        System.out.print("Enter hourly salary: ");
+
+        hourSalary = inp.nextDouble();
+
+        System.out.print("Enter Weekly Time (in hours): ");
+
+        weeklyTime = inp.nextDouble();
+
+
+     
+
+        switch ((int) empNum) {
