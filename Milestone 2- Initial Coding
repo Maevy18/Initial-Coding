@@ -106,5 +106,83 @@ if (weeklyTime <= 40) {
 
         }
 
+        }
+
+
+     
+
+        System.out.println("======================");
+
+        System.out.println("====PAYROLL SYSTEM====");
+
+        System.out.println("======================");
+
+        System.out.printf("Employee Number: %d\n", empNum);
+
+        System.out.printf("Employee Name: %s\n", empName);
+
+        System.out.printf("Hourly Salary: %.2f\n", hourSalary);
+
+        System.out.printf("Weekly Hours: %.2f\n", weeklyTime);
+
+        System.out.printf("Regular Pay: %.2f\n", regPay);
+
+        System.out.printf("Overtime Pay: %.2f\n", overtimePay);
+
+        System.out.printf("Net Pay: %.2f\n", netPay);
+
+
+    }
+System.out.println("======================");
+
+        System.out.println("====PAYROLL SYSTEM====");
+
+        System.out.println("======================");
+
+        System.out.printf("Employee Number: %d\n", empNum);
+
+        System.out.printf("Employee Name: %s\n", empName);
+
+        System.out.printf("Hourly Salary: %.2f\n", hourSalary);
+
+        System.out.printf("Weekly Hours: %.2f\n", weeklyTime);
+
+        System.out.printf("Regular Pay: %.2f\n", regPay);
+
+        System.out.printf("Overtime Pay: %.2f\n", overtimePay);
+
+        System.out.printf("Net Pay: %.2f\n", netPay);
+
+
+    }
+
+
+
+System.out.printIn("======================");
+
+        System.out.printIn("====PAYROLL SYSTEM====");
+
+System.out.println("======================");
+
+System.out.printf("Employee Number: %d\n", empNum);
+
+        System.out.printf("Employee Name: %s\n", empName);
+
+        System.out.printf("Hourly Salary: %.2f\n", hourSalary);
+
+        System.out.printf("Weekly Hours: %.2f\n", weeklyTime);
+
+        System.out.printf("Regular Pay: %.2f\n", regPay);
+
+        System.out.printf("Overtime Pay: %.2f\n", overtimePay);
+
+        System.out.printf("Net Pay: %.2f\n", netPay);
+
+
+    }
+
+}
+
+
 
  
